@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://i.ibb.co/qpxpGmC/image.jpg" alt="Jisshu-Auto-filter">
+  <img src="https://telegra.ph/file/27478ec1caf47344592b4.jpg" alt="Jisshu-Auto-filter">
 </p>
 <h1 align="center">
-  <a href="https://telegram.me/JISSHU_BOTS">Movie/Auto Filter Bot</a>
+  <a href="https://telegram.me/TCU_TCU">Movie/Auto Filter Bot</a>
 </h1>
 <img src="https://cdn.jsdelivr.net/gh/Jisshubot/Jisshubot/resources/hr.gif"/>
 
@@ -78,7 +78,7 @@
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/Jisshubot/Jisshu-filter-bot">
+<a href="https://heroku.com/deploy?template=https://github.com/vinay366/NewMoviesBot">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy To Heroku">
 </a>
 </p>
@@ -90,7 +90,7 @@
 <br>
 <br>
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/Jisshubots/Jisshu-filter-bot&branch=main&name=Jisshu-filter-bot )
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/vinay366/NewMoviesBot&branch=main&name=Jisshu-filter-bot )
 </details>
 
 <details><summary>Deploy To Render</summary>
@@ -117,7 +117,7 @@ Use these settings when adding a monitor:</b>
 <b>Click on the below button to deploy directly to render ↓</b>
 <br>
 <br>
-<a href="https://render.com/deploy?repo=https://github.com/Jisshubots/Jisshu-filter-bot/tree/main">
+<a href="https://render.com/deploy?repo=https://github.com/vinay366/NewMoviesBot/tree/main">
 <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
 </a>
 </details>
@@ -125,7 +125,7 @@ Use these settings when adding a monitor:</b>
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/Jisshubot/Jisshu-filter-bot
+git clone https://github.com/vinay366/NewMoviesBot
 # Install Packages
 pip3 install -U -r requirements.txt
 Edit info.py with variables as given below then run bot
