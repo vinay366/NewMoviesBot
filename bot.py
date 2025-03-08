@@ -48,7 +48,7 @@ loop = asyncio.get_event_loop()
 
 async def Jisshu_start():
     print('\n')
-    print('Initalizing The Movie Provider Bot')
+    print('Initalizing The TCU_TCU Bot')
     bot_info = await JisshuBot.get_me()
     JisshuBot.username = bot_info.username
     await initialize_clients()
@@ -62,7 +62,7 @@ async def Jisshu_start():
             load = importlib.util.module_from_spec(spec)
             spec.loader.exec_module(load)
             sys.modules["plugins." + plugin_name] = load
-            print("The Movie Provider Imported => " + plugin_name)
+            print("TCU_TCU Imported => " + plugin_name)
     if ON_HEROKU:
         asyncio.create_task(ping_server())
     b_users, b_chats = await db.get_banned()
